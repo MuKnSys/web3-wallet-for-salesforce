@@ -8,4 +8,4 @@ A corporate IT native Web3 Wallet will store the private keys in their existing 
 
 ## Copyright and License
 
-Copyright 2024 Mutual Knowledge Systems, Inc. Web3 Wallet for Salesforce is distributed under the GPL licence, version 3.0. For more information, see the [LICENSE file](https://github.com/MuKnSys/web3-wallet-for-salesforce/blob/main/LICENSE).
+Copyright 2024 Web3 Enabler, Inc. Web3 Wallet for Salesforce is distributed under the GPL licence, version 3.0. For more information, see the [LICENSE file](https://github.com/MuKnSys/web3-wallet-for-salesforce/blob/main/LICENSE).
